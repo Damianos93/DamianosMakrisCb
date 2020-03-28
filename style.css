@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Indie+Flower&family=Kalam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Kalam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturCook&display=swap');
+
+
+body{
+    margin: 0;
+    color: rgb(0, 0, 0);
+    font-family: 'Kalam', cursive;
+    font-size:0.9rem;
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgb(105, 105, 105) 0%, rgba(255,255,255,1) 100%, rgba(255, 255, 255, 0.205) 100%, rgba(255,255,255,1) 100%, rgba(255,255,255,0) 100%);
+    
+}
+
+.righty{
+    margin-left: 50rem;
+}
+
+.heighty{
+    height: 10rem;
+}
+
+.smally{
+    width: 17rem;
+    
+}
+
+.rightys{
+    margin-left: 38rem;
+}
+
+.bground {
+    background-color:rgba(207, 207, 207, 0.5);
+   
+}
+
+h1{
+    font-family: "Roboto";
+    text-shadow: 1px 1px ;
+    font-size: 1.7rem;
+
+}
+
+#small{
+    font-size: 1.4rem;
+}
+
+img{
+    height: 20vh;
+}
